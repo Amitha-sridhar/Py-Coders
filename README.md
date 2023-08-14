@@ -52,7 +52,7 @@ Connecting to Postgres, PowerBI tools was a challenge
 Saving Static graphs with interactive titles on github was a new challenge
 
 
-##Conclusion::
+## Conclusion::
 ---
 
 This analysis provides valuable insights into the hospital dataset, highlighting trends, correlations, and patterns in the data. The tasks covered in this repository demonstrate various data analysis and visualization techniques using Python, making it a useful resource for those interested in healthcare data analysis and visualization.
